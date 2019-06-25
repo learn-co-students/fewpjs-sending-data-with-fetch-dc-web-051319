@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,159 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Fido",
+      "dogBreed": "Mutt",
+      "id": 4
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 6
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 7
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 8
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 9
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 10
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 11
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 12
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 13
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 14
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 15
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 16
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 17
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 18
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 19
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 20
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 21
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 22
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 23
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 24
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 25
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 26
+    },
+    {
+      "dogName": "Mona",
+      "dogBreed": "French Bulldog",
+      "submit": "Submit",
+      "id": 27
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +172,63 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Frank",
+      "email": "enstein@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Drac",
+      "email": "ula@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "The Swamp",
+      "email": "thing@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "The",
+      "email": "fly@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "The",
+      "email": "fly@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "FlyingPurple",
+      "email": "peopleeater@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Sas",
+      "email": "quatch@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Yeti",
+      "email": "abominablesnowman@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Yeti",
+      "email": "abominablesnowman@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Yeti",
+      "email": "abominablesnowman@gmail.com",
+      "id": 10
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
